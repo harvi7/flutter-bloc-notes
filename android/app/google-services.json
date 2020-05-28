@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746793908471",
+    "firebase_url": "https://bloc-notes-76228.firebaseio.com",
+    "project_id": "bloc-notes-76228",
+    "storage_bucket": "bloc-notes-76228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746793908471:android:84fc5e2dcaf44ac579fbf2",
+        "android_client_info": {
+          "package_name": "com.example.bloc_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746793908471-8dpeq78i6vq4th9lbe1hedo7dequ76r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEAaPeATSW9SU1Uoxqc7zUAzTt8nOv7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746793908471-8dpeq78i6vq4th9lbe1hedo7dequ76r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
