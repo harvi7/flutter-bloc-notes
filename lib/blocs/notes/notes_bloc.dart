@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter_firebase_bloc_notes/models/models.dart';
-import 'package:flutter_firebase_bloc_notes/repositories/repositories.dart';
+import 'package:bloc_notes/models/models.dart';
+import 'package:bloc_notes/repositories/repositories.dart';
 import 'package:meta/meta.dart';
 
 part 'notes_event.dart';
