@@ -1,6 +1,6 @@
 
+import 'package:bloc_notes/entities/entities.dart';
 import 'package:equatable/equatable.dart';
-import 'package:bloc_notes/entities/user_entity.dart';
 import 'package:meta/meta.dart';
 
 class User extends Equatable {
